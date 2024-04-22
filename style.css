@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: lightpink;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    display: flex;
+    gap: 50px;
+}
