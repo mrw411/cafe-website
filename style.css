@@ -17,4 +17,24 @@
 ul{
     display: flex;
     gap: 50px;
+    list-style: none;
+}
+
+.section-one{
+    background-color: beige;
+}
+
+.section-one2{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-family: serif;
+    font-size: 46px;
+}
+
+.drop-by{
+    text-align: center;
+    padding: 30px;
 }
