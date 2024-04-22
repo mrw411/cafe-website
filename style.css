@@ -27,6 +27,21 @@ ul{
 .section-one2{
     display: flex;
     justify-content: center;
+
+}
+
+.address, .hours{
+    padding: 80px;
+    text-align: center;
+}
+
+.soft-text{
+    text-align: center;
+    padding: 5px;
+}
+
+h3{
+    margin-bottom: 20px;
 }
 
 h2{
